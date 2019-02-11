@@ -6,4 +6,8 @@ touchui-composite-multifield-nodestore.js
 icon-picker.js
 touchui-limit-parsys.js
 touchui-configure-parsys-placeholder.js
+<<<<<<< HEAD
 draggablelist.js
+=======
+search-based-pathbrowser.js
+>>>>>>> a70604c6
